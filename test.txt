@@ -1,3 +1,5 @@
 Test file (txt file) for the git repo
 
 Added a test branch called "test-branch", which includes this line of text.
+
+Test git pull : add a line from github
